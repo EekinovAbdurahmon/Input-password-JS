@@ -1,0 +1,75 @@
+body{
+    background-color: rgb(238, 235, 235);
+}
+.sss{
+    margin-top: 200px
+}
+.box{
+    display: flex;
+    justify-content: center;
+ 
+    position: relative;
+}
+.cssg{
+    padding: 5px 7px;
+    border: none;
+    background-color: transparent;
+    font-size: 30px;
+}
+.cssg:focus{
+    outline: none;
+}
+.fox{
+    width: 100%;
+    border: none;
+    font-size: 25px;
+}
+.fox{
+   outline: none;
+}
+.fox::placeholder{
+    color:#666
+}
+.fff{
+    position: absolute;
+    top: -10px;
+    right: 60px;
+    border-radius: 50%;
+    font-size: 12px;
+    border: none;
+    background-color: transparent;
+    font-size: 20px;
+    color: #666;
+}
+.vvv{
+height: 3px;
+width: 100%;
+background-color: #555;
+
+margin-left: 0px;
+
+}
+.eee{
+    height: 3px;
+width:100% ;
+/* background-color: red; */
+
+margin-top: -3px;
+
+transition: 0.4s all linear;
+
+}
+.fff:focus{
+    outline: none;
+}
+.box1{
+position: relative;
+background-color: #fff;
+padding: 40px 20px 60px 20px;
+height: 200px;
+
+box-shadow: 3px 5px 5px rgba(0,0,0,0.5)}
+
+#inp1{
+    display: none;
+}
